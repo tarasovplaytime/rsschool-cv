@@ -36,3 +36,8 @@ while (true) {
 
 # Experience
 Despite the large number of websites created, one of the most ambitious projects is the creation of a design, as well as the coding of my personal portfolio site. I also took 2 real orders to create a website, which I successfully coped with.
+
+# Languages
+* **Russian** - Native speaker
+* **Ukrainian** - Intermediate
+* **English** - B2
