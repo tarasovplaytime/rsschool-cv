@@ -17,6 +17,9 @@ Starting from the age of 12, I began to get interested in programming and to thi
 * JavaScript Basics
 * Git, GitHub
 * Python (Basic knowledge) 
+* Photoshop
+* Figma(for web development)
+
 
 # Code Examples
 ```
