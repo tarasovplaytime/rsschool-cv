@@ -9,3 +9,30 @@
 
 # About Me
 Starting from the age of 12, I began to get interested in programming and to this day I continue to develop and progress. For me, programming is a real hobby that brings a lot of pleasure.
+
+
+# Skills
+* HTML5
+* CSS3 (Bootstrap)
+* JavaScript Basics
+* Git, GitHub
+* Python (Basic knowledge) 
+
+# Code Examples
+```
+const magic_number = 3.3312;
+while (true) {
+    const user_input = parseFloat(prompt("Enter a guess: "));
+    if (user_input === magic_number) {
+        console.log("Correct!");
+        break;
+    } else if (user_input > magic_number) {
+        console.log("Too high!");
+    } else if (user_input < magic_number) {
+        console.log("Too low!");
+    }
+}
+```
+
+# Experience
+Despite the large number of websites created, one of the most ambitious projects is the creation of a design, as well as the coding of my personal portfolio site. I also took 2 real orders to create a website, which I successfully coped with.
