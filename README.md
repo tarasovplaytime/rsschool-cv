@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://tarasovplaytime.github.io/rsschool-cv/cv
+https://tarasovplaytime.github.io/rsschool-cv/
